@@ -7,6 +7,11 @@ Changelog:
 1.0 - Criação do projeto e definição do que seria utilizado
     - Utilização da biblioteca de jogos Pygame
     - Utilização da biblioteca de testes unittest (nativo do Python)
+
+07/04
+1.1 - Criação dos sprites e adição dos mesmos na pasta images
+    - Criação da função para criar tabuleiro e teste básico    
+
     
 * Links e Fontes:
 https://stackoverflow.com/questions/45945254/make-a-88-chessboard-in-pygame-with-python
